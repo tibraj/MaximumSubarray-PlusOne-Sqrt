@@ -6,3 +6,6 @@
 
 
 //Sqrt
+function mySqrt(x) {
+    return Math.floor(x ** 0.5);
+}
